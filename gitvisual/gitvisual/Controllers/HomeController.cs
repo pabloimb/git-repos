@@ -11,7 +11,7 @@ namespace gitvisual.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            string hola;
+            string holaholahola;
             return View();
         }
     }
